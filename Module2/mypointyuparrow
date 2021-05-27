@@ -1,0 +1,10 @@
+print("My pointy up arrow \n")
+print("look at it. \n\n" ,
+"     *     \n",
+"    * *    \n",
+"   *   *   \n",
+"  *     *  \n",
+" ***   *** \n",
+"   *   *   \n",
+"   *   *   \n",
+"   *****   \n")
