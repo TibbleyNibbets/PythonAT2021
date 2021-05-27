@@ -1,0 +1,7 @@
+Adam = 8
+John = 3
+Mary = 5
+total_apples = Adam + John + Mary
+
+print(Adam , John , Mary)
+print(total_apples)
